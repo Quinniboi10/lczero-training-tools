@@ -16,3 +16,5 @@ Again, you have a progress bar. One shows the overall progress for the extractio
 
 ## That's all!
 Hopefully you find these tools helpful in your chess endevours. Good luck and happy training!
+
+### Note: Windows users may need to change the paths as this code is for linux. It should work on Windows but I am unable to test.
