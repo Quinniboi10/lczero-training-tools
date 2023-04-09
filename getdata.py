@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 FILE_NAME = 'links.txt'
 BASE_URL = 'https://storage.lczero.org/files/training_data/test80/'
-DOWNLOAD_FOLDER = '/home/qitag/Downloads/'
+DOWNLOAD_FOLDER = '~/Downloads/'
 NUM_DOWNLOADS = 10
 
 
