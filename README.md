@@ -12,7 +12,7 @@ Create a folder called lctd (Leela Chess Training Data)\
 Download your data by running `python3 getdata.py`\
 A progress bar will show your downloads. 10 files will be downloaded at a time.\
 After your files finish being downloaded, run `python3 untar.py ./lctd/`\
-Again, you have a progress bar. One shows the overall progress for the extraction, and the other shows the progress for each file.\
+Again, you have a progress bar. One shows the overall progress for the extraction, and the other shows the progress for each file. \
 
 ## That's all!
 Hopefully you find these tools helpful in your chess endevours. Good luck and happy training!
